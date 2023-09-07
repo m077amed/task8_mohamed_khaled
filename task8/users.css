@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+table {
+  width: 100%;
+  padding: 20px;
+  border: 3px solid black;
+}
+tr {
+  padding: 20px;
+  border: 3px solid black;
+}
+th {
+  text-align: center ;
+  background-color: royalblue ;
+  padding: 20px;
+  border: 3px solid black;
+}
+td {
+  padding: 9px;
+  padding: 20px;
+  border: 3px solid black;
+}
